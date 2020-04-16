@@ -56,10 +56,3 @@ def connectAndGetLinks(emailServer, emailUser, emailPassword, interval):
 
     # Return array of urls
     return urls
-
-
-# print(
-#     connectAndGetLinks(
-#         "lu-shared04.cpanelplatform.com", "test4@xnoah.xyz", "Apina123_", 5
-#     )
-# )
