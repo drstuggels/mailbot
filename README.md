@@ -1,6 +1,7 @@
 # noahmail
 #### introduction
-The most simple way to describe this: Python Email Confirmation Link Scraper
+The most simple way to describe this: Python Email Confirmation Link Scraper.
+
 So the idea is to use this if you want to register an account with a bot and you need to confirm an email without any UI. This is very simple and should maybe only be used if you're a beginner or you just want something simple. There is only one function. Anyway here's how to use it:
 #### Prerequisites
 The only package you need to install is [urlextract](https://pypi.org/project/urlextract/).
