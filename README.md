@@ -1,4 +1,4 @@
-# noahmail
+# mailbot
 #### introduction
 The most simple way to describe this: Python Email Confirmation Link Scraper.
 
@@ -9,12 +9,12 @@ The only package you need to install is [urlextract](https://pypi.org/project/ur
 pip install urlextract
 ```
 #### Installing
-Just download the **noahmail.py** file and put it in your own project folder.
-[This is a direct link](https://github.com/drstuggels/noahmail/blob/master/noahmail.py)
+Just download the **mailbot.py** file and put it in your own project folder.
+[This is a direct link](https://github.com/drstuggels/mailbot/blob/master/mailbot.py)
 #### How to use
 Import it:
 ```python
-from noahmail import connectAndGetLinks
+from mailbot import connectAndGetLinks
 ```
 Use it somewhere
 ```python
